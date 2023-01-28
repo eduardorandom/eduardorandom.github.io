@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 group-title="Legislative",Althingi
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 group-title="Sports",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 group-title="Sports",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",FilmRise Sci-Fi Finland
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
+#EXTINF:-1 group-title="Legislative",Folketing (1080p)
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Religious",Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Hope Channel Norge (720p)
+http://media1.adventist.no:1935/live/hope1/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 group-title="Undefined",Latvijas Radio 2 (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Life TV (432p) [Not 24/7]
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 group-title="Undefined",LRT Lituanica (720p)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 group-title="Undefined",M-1 (480p)
+http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 group-title="News",Miracle Channel (576p)
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 group-title="Undefined",NärTV (360p)
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Music",Power Hit Radio (720p) [Not 24/7]
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",RUV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 group-title="Undefined",RUV2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 group-title="Religious",Taevas TV7 (720p)
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Taivas TV7 (720p)
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Tastemade
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 group-title="Undefined",TV2/Bornholm (1080p) [Not 24/7]
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV2/Lorry (720p)
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+#EXTINF:-1 group-title="Undefined",TV2/Østjylland (720p)
+https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Undefined",TV2 Fyn (1080p)
+https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
+#EXTINF:-1 group-title="Undefined",TV2 Nyhetsstrømmen (720p)
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1 group-title="Sports",TV 2 Sport 1 (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 group-title="Undefined",TV Modum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+#EXTINF:-1 group-title="Undefined",TVNET (360p)
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
