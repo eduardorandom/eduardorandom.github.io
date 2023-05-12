@@ -1,9 +1,35 @@
 [removeparam]
+!
+!
+! ----------------------------------------------------------------------------
+! D E T A I L S
+! ----------------------------------------------------------------------------
 ! Title: Removeparam List
-! Version: 11May2023v1
-! Expires: 30 days
-! Description: Less tracking please!
+! Maintainer: Eduardorandom
+! Description: Less tracking please! Sorry Me!
 ! Homepage: https://github.com/eduardorandom/eduardorandom.github.io
+! License: n/a
+! Format: abp
+! Version: 11May2023
+! Release: 2
+! Expires: 30 days
+! Entries: few
+! Updated: Thursday, 11 May 23
+! ----------------------------------------------------------------------------
+!Other Suggestions to keep anyway
+!https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+!https://gitlab.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
+!https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+!https://filters.adtidy.org/extension/ublock/filters/3.txt
+!https://raw.githubusercontent.com/liamengland1/miscfilters/a5a0895a146e13a85de44dc8a310ed451e472404/antipaywall.txt
+!https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+!https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+
+Design from this list so credit to them
+!https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt
+! ----------------------------------------------------------------------------
+! START
+! ----------------------------------------------------------------------------
 
 ! Etsy
 *$removeparam=ga_order
