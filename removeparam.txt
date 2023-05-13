@@ -10,11 +10,11 @@
 ! Homepage: https://github.com/eduardorandom/eduardorandom.github.io
 ! License: n/a
 ! Format: abp
-! Version: 11May2023
-! Release: 2
+! Version: 12May2023
+! Release: 3
 ! Expires: 30 days
 ! Entries: few
-! Updated: Thursday, 11 May 23
+! Updated: Friday, 12 May 23
 ! ----------------------------------------------------------------------------
 !Other Suggestions to keep anyway
 !https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
@@ -27,6 +27,21 @@
 
 Design from this list so credit to them
 !https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt
+! ----------------------------------------------------------------------------
+! Errors
+! ----------------------------------------------------------------------------
+!https://www.tiktok.com/@tellmeaboutitvicky?_t=8W2RppYOobm
+!*$removeparam=_t
+!https://twitter.com/jewelrydesign21?t=rlaDObQBJM0QpSo-VjdEDQ&s=09
+!*$removeparam=t
+! Error somewhere
+!
+!https://twitter.com/geekys_pins?s=21&t=NwEDWNByeu8CRcYlCVuP1Q
+!*$removeparam=s
+! Error On reddit, shows weird symbols on people's profiles
+!
+!*$removeparam=cn
+!Error on Google.com, prevents switching accounts
 ! ----------------------------------------------------------------------------
 ! START
 ! ----------------------------------------------------------------------------
@@ -131,8 +146,9 @@ Design from this list so credit to them
 *$removeparam=cid
 *$removeparam=ls
 *$removeparam=sfcid
-!*$removeparam=cn
-//Used by google to access account on upper right on desktop
 
 !instagram
 *$removeparam=hl
+
+!https://twitter.com/hashtag/nsfwart?src=hashtag_click
+*$removeparam=src
