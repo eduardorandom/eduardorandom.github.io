@@ -14,7 +14,7 @@
 ! Release: 4
 ! Expires: 1 days
 ! Entries: <100
-! Updated: Friday, 12 May 23
+! Updated: Friday, 25 August 25
 ! ----------------------------------------------------------------------------
 !Other Suggestions to keep anyway
 !https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
