@@ -6,14 +6,14 @@
 ! ----------------------------------------------------------------------------
 ! Title: Removeparam List
 ! Maintainer: Eduardorandom
-! Description: Less tracking please! Sorry Me!
+! Description: Less tracking please! Sorry Me!(For marketers that also track ppl for jobs but hate it themselves like me)
 ! Homepage: https://github.com/eduardorandom/eduardorandom.github.io
 ! License: n/a
 ! Format: abp
 ! Version: 12May2023
-! Release: 3
-! Expires: 30 days
-! Entries: few
+! Release: 4
+! Expires: 1 days
+! Entries: <100
 ! Updated: Friday, 12 May 23
 ! ----------------------------------------------------------------------------
 !Other Suggestions to keep anyway
@@ -42,6 +42,10 @@ Design from this list so credit to them
 !
 !*$removeparam=cn
 !Error on Google.com, prevents switching accounts
+!
+!https://wetransfer.com/pricing?term=wetransfer&medium=US_P-B_Cs&source=Bing
+!*$removeparam=source
+//Prevent youtube from playing
 ! ----------------------------------------------------------------------------
 ! START
 ! ----------------------------------------------------------------------------
@@ -77,7 +81,6 @@ Design from this list so credit to them
 *$removeparam=campaign
 
 !https://shopsonix.com/collections/sonix-x-hello-kitty-and-friends?attribution_window=30&contact_id=0b00f8c7-70a5-4bf7-9f46-aa8f90e15e3b&link_id=1211874&platform=grin&token=71On96WgXtdtspcgNm2y2a9U5yXwTZmV
-
 *$removeparam=attribution_window
 *$removeparam=contact_id
 *$removeparam=link_id
@@ -114,7 +117,7 @@ Design from this list so credit to them
 *$removeparam=utm_source
 *$removeparam=_r
 
-!https://ww44.affinity.net/fb.php?senk=7cb0cbb7926dedd6&fb=b0c23c509334bbcdf560b0080e2ad38f&ifm=0&kw=&setup=&d=https%3A%2F%2Fcrypto.com%2Fnft%2Fprofile%2Fritawatermilone%3Fasset%3D52485937361653bbe4eb68730b0eae5f%26edition%3D2ef0958a9698798d920351884fe195af&subid=zezam.io&csk=cnjg17&site_id=608234
+!https://ww44.affinity.net/
 *$removeparam=senk
 *$removeparam=fb
 *$removeparam=ifm
@@ -150,5 +153,36 @@ Design from this list so credit to them
 !instagram
 *$removeparam=hl
 
-!https://twitter.com/hashtag/nsfwart?src=hashtag_click
-*$removeparam=src
+!https://wetransfer.com/pricing?term=wetransfer&medium=US_P-B_Cs&source=Bing
+*$removeparam=term
+*$removeparam=medium
+*$removeparam=wp_http_referer
+
+
+*$removeparam=sr_
+*$removeparam=crid
+*$removeparam=keywords
+*$removeparam=s
+*$removeparam=sbo
+*$removeparam=sprefix
+
+!https://www.amazon.com/s?k=Elector+PSP
+*$removeparam=i
+*$removeparam=crid
+*$removeparam=sprefix
+*$removeparam=ref
+*$removeparam=s
+*$removeparam=th
+
+!https://appsumo.com/products/ocoya
+*$removeparam=query
+
+!https://www.facebook.com/
+*$removeparam=stype
+*$removeparam=jlou
+*$removeparam=smuh
+*$removeparam=lh
+
+!https://mobirise.com/?AFFILIATE=125174&__c=1
+*$removeparam=AFFILIATE
+*$removeparam=__c
